@@ -1,4 +1,4 @@
-# about the data:
+# about the data
 the data is an 6 excal files:
 1- Dim_Customers.xlsx
 2- Dim_Products.xlsx
@@ -7,13 +7,13 @@ the data is an 6 excal files:
 5- Dim_Store location.xlsx
 6- fact.xlsx
 
-# Data Preperation:
+# Data Preperation
 1- collect all data in one file using (v-lookup)
 2- calculate some important coloumns like Profit, total cost
 3- Remove Duplicates and Unnecessary coloumns
 4- Create Pivot Tables
 
-# Data Visaulization:
+# Data Visaulization
 - number of soild units, customers, orders, total sales, total cost, and profit
 - total sales by channel
 - total sales by data (year)
